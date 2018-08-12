@@ -1,9 +1,3 @@
-"""
-    .. title: A simple find path algorithm
-    .. actor: Adolfo Guimaraes (adolfo@data2learning.com)
-    .. date: february-18
-"""
-
 # Variable Declarations
 map_maze = {
     'A': [('B', 5)],
